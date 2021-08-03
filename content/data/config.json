@@ -137,5 +137,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "https://pink-celery-19324.netlify.app"
+    "domain": "https://pink-celery-19324.netlify.app",
+    "favicon": "/images/new.png"
 }
